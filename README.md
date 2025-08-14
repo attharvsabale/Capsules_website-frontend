@@ -2,15 +2,15 @@
 
 An interactive and visually engaging animated website showcasing modern frontend techniques.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](YOUR_LIVE_DEMO_LINK_HERE)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://capsules-website-frontend.vercel.app/)
 
 ---
 
-## ?? Description
-
+##  Description
+Capsules Website – A sleek, scroll-driven animated experience with capsule-inspired design, powered by GSAP and smooth scrolling effects.
 ---
 
-## ?? Project Gallery
+##  Project Gallery
 
 A visual tour of the key sections and animations of the website.
 
