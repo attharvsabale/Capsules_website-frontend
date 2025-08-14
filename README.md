@@ -1,5 +1,5 @@
 # Capsules Website - Frontend
-##Please Note: This project is currently optimized for desktop viewing only. Mobile responsiveness has not yet been implemented.
+# Please Note: This project is currently optimized for desktop viewing only. Mobile responsiveness has not yet been implemented.
 
 
 
