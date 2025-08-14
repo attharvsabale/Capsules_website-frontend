@@ -1,5 +1,9 @@
 # Capsules Website - Frontend
-#Please Note: This project is currently optimized for desktop viewing only. Mobile responsiveness has not yet been implemented.
+##Please Note: This project is currently optimized for desktop viewing only. Mobile responsiveness has not yet been implemented.
+
+
+
+
 An interactive and visually engaging animated website showcasing modern frontend techniques.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://capsules-website-frontend.vercel.app/)
