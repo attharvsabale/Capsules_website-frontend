@@ -24,9 +24,9 @@ A visual tour of the key sections and animations of the website.
 | *Close-up of an interactive part of the site.* | *Showcasing a seamless page or section transition.* |
 | ![Interactive Element Screenshot](/images/Screenshot-3.png) | ![Transition Screenshot](/images/Screenshot-4.png) |
 
-| Responsive Design | Another Cool View |
+|  Design | Another Cool View |
 | :---: | :---: |
-| *How the website looks on a mobile device.* | *Another interesting part of your website.* |
+| *How the website looks .* | *Another interesting part of your website.* |
 | ![Responsive View Screenshot](/images/Screenshot-5.png) | ![Cool View Screenshot](/images/Screenshot--6.png) |
 
 | **Footer Section** |
